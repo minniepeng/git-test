@@ -1,2 +1,6 @@
 abc
+<<<<<<< HEAD
 hello
+=======
+gsfsdfg
+>>>>>>> bab47faaf52f410eed6226b17b347c309e2ce5ea
